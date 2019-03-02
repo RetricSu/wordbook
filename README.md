@@ -1,26 +1,24 @@
-# what is loserman?
+# what is wordbook?
 
-loserman is an open source chrome-extension that stops you from doing "bad" things while watching pornhub.com by adding a lot of danmu(some really motivate text, ie: 'be a good man!', 'work hard to have a wonderful life!' ) upon videos. it also makes you upload your own danmu, let you share your motivate sentence help other people quit the addiction.
+wordbook is an open source off-line chrome-extension that that record vacubulary you don't know in your daily use.
 
-戒撸侠(loserman)是一款开源的chrome扩展插件，它会在你播放pornhub视频时自动为视频加上养生弹幕，内容为苦口婆心的戒撸鸡汤，以此帮助你更好的度过这一生。你还可以上传自己的弹幕，与其他人分享你的感悟。
+英语生词本是一款开源、离线的chrome扩展，它会在你日常使用chrome浏览器的过程中自动记录你不认识的单词。它的原理很简单：很多人都会使用划词翻译的工具，很多时候你划词看了翻译就忘记了这个词，英语生词本会自动记录这些词，然后在你新开的tab中随机展示这些单词，帮你在零碎时间背单词，而且是专门针对你记不住的那些词，我们认为这样的学习效率是更高的。
 
 # install
 
-simply install from google web store: [https://chrome.google.com/webstore/detail/%E6%88%92%E6%92%B8%E4%BE%A0/ddnpnjpckfbihgemekicmccaeoimknmg](https://chrome.google.com/webstore/detail/%E6%88%92%E6%92%B8%E4%BE%A0/ddnpnjpckfbihgemekicmccaeoimknmg).
+simply install from google web store: not deployed yet.
 
-![loserman image](background.jpg?raw=true "loserman image")
+![loserman image](background.jpg?raw=true "wordbook image")
 
 # todo
 
 未来可能会推出的新功能：
 
-- 让用户填入自己想要生效的网站地址。
-- 让你和看过相同片子的戒友通过弹幕聊天。
+- 更多展示单词的选项：按标记次数、按优化随机、按日期等等。
+- 加入防误触的过滤词机制：使用预先准备的词库+后续删除的词。
+- 增加生词导出功能：json格式或者文本格式，可打印，或者选择自动推送至邮箱。
+- 更丰富的单词翻译：增加音标、朗读、例句、查看单词详情的外链（可以跟英语学习网站合作，导流或者广告）
 
 # contribute
 
 如果你想一起完善这个项目，欢迎提交issue和pr。
-
-# seriously, this is just a joke project
-
-a friend of mine came with this idea and he just asks me to do this, and I am a nice guy, so...
