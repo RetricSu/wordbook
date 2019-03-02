@@ -1,0 +1,67 @@
+<html>
+  <head>
+    <title>Home</title>
+    <meta charset="UTF-8">
+    <style media="screen">
+      body{
+        width:300px;
+      }
+      .banner{
+        width: 100%;
+        height: 40px;
+        display: block;
+        margin-bottom: 2px;
+        clear: both;
+      }
+      .icon-container{
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+
+        float: left;
+        padding: 5px;
+      }
+      .icon-img{
+        width: 20px;
+        height: 20px;
+      }
+      .banner > h1{
+        height: 40px;
+      }
+      ul{
+        width: 100%;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+      ul li{
+        width: 100%;
+        font-size: 16px;
+        padding:5px;
+        cursor: pointer;
+      }
+      li:hover{
+        color:white;
+        background: gray;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="banner">
+      <div class="icon-container">
+        <center>
+          <img class="icon-img" src="Icon.png">
+        </center>
+      </div>
+      <h1 class="title">英语生词本</h1>
+    </div>
+    <hr>
+    <ul>
+      <li id="export">导出我的生词本</li>
+      <li id="about">关于</li>
+      <li id="go-to-options">设置</li>
+    </ul>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
