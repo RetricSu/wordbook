@@ -8,7 +8,7 @@ wordbook is an open source off-line chrome-extension that that record vacubulary
 
 simply install from google web store: not deployed yet.
 
-![loserman image](background.jpg?raw=true "wordbook image")
+![loserman image](background.jpeg?raw=true "wordbook image")
 
 # todo
 
